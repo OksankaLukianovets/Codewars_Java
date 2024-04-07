@@ -1,3 +1,5 @@
+package Codewars;
+
 public class Plural {
     public static boolean isPlural(float f) {
 //        Version 1
